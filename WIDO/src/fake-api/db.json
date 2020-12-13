@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "nama": "Wido",
+      "usia": "23",
+      "pekerjaan": "coder",
+      "id": 1
+    },
+    {
+      "nama": "qwe",
+      "usia": "qwe",
+      "pekerjaan": "qwe",
+      "id": 2
+    }
+  ],
+  "pekerjaan": [
+    {
+      "pekerjaan": "qwe",
+      "id": 2
+    },
+    {
+      "pekerjaan": "coder",
+      "id": 3
+    }
+  ]
+}
